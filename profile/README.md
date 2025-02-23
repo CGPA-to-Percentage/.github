@@ -32,7 +32,7 @@ For example, if a student has a CGPA of 8.2, the percentage will be:
 
 Some universities use different multipliers like 10 or 9. Some institutions also provide official conversion formulas on their websites.
 
-If you want an easy and instant way to calculate your percentage, try [**CGPA to Percentage**](cgpatopercentagecalc.com). This online tool does the conversion for you in seconds and ensures accurate results based on different university formulas.
+If you want an easy and instant way to calculate your percentage, try [**CGPA to Percentage**](https://www.cgpatopercentagecalc.com/). This online tool does the conversion for you in seconds and ensures accurate results based on different university formulas.
 
 ## Example CGPA to Percentage Conversion (Using 9.5 Multiplier)
 
